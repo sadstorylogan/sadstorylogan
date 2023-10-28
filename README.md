@@ -12,19 +12,19 @@
 # 🚀 Project Showcase
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/sadstorylogan/escape-from-the-abyss"><img src="URL_to_project_image" alt="Escape from the Abyss Image" width="200"/></a>
-      <br>
-      <a href="https://github.com/sadstorylogan/escape-from-the-abyss">Escape from the Abyss</a>
-      <br>
-      A thrilling game that tests your wits and reflexes, featuring puzzles, strategic combat, and epic boss fights. Developed using Unity, it showcases advanced game design techniques and storytelling.
+    <td align="center" width="50%">
+      <a href="https://github.com/sadstorylogan/escape-from-the-abyss"><img src="https://github.com/sadstorylogan/sadstorylogan/assets/44436956/89187746-d32b-4073-8899-b6ef2615c061" width="100%" /></a>
+      <h4><a href="https://github.com/sadstorylogan/escape-from-the-abyss">Escape from the Abyss</a></h4>
+      <p>A thrilling game that tests your wits and reflexes, featuring puzzles, strategic combat, and epic boss fights. Developed using Unity, it showcases advanced game design techniques and storytelling.</p>
     </td>
-  </tr>
-  <!-- Add more projects in additional rows (tr) or columns (td) as needed -->
+
+   <td align="center" width="50%">
+      <a href="Link_to_project_2"><img src="https://github.com/sadstorylogan/sadstorylogan/assets/44436956/5e19a9b0-a02a-4471-97ae-1a897d962ce2" width="100%" /></a>
+      <h4><a href="Link_to_project_2">Grid Guardians</a></h4>
+      <p>Blending the thrill of turn-based tactics with the strategic depth found in class-based shooters. Set in a modern-day context, players navigate challenging scenarios that demand strategic planning, as each class brings unique abilities to the table.</p>
+    </td>
+     </tr>
 </table>
-
-
-https://github.com/sadstorylogan/sadstorylogan/assets/44436956/79de9fcd-cd54-4272-9a8c-dd17a2b3ac24
 
 
 # 📊 GitHub Stats:
