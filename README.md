@@ -10,10 +10,21 @@
 
 
 # 🚀 Project Showcase
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/sadstorylogan/escape-from-the-abyss"><img src="URL_to_project_image" alt="Escape from the Abyss Image" width="200"/></a>
+      <br>
+      <a href="https://github.com/sadstorylogan/escape-from-the-abyss">Escape from the Abyss</a>
+      <br>
+      A thrilling game that tests your wits and reflexes, featuring puzzles, strategic combat, and epic boss fights. Developed using Unity, it showcases advanced game design techniques and storytelling.
+    </td>
+  </tr>
+  <!-- Add more projects in additional rows (tr) or columns (td) as needed -->
+</table>
 
-### [Escape from the Abyss](https://github.com/sadstorylogan/escape-from-the-abyss)
-A thrilling game that tests your wits and reflexes, featuring puzzles, strategic combat, and epic boss fights. Developed using Unity, it showcases game design techniques and storytelling.
-![Escape from the Abyss Image](https://github.com/sadstorylogan/sadstorylogan/assets/44436956/a201c417-7e96-4e1a-9de9-124894d74427)
+
+https://github.com/sadstorylogan/sadstorylogan/assets/44436956/79de9fcd-cd54-4272-9a8c-dd17a2b3ac24
 
 
 # 📊 GitHub Stats:
