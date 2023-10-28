@@ -19,12 +19,18 @@
     </td>
 
    <td align="center" width="50%">
-      <a href="Link_to_project_2"><img src="https://github.com/sadstorylogan/sadstorylogan/assets/44436956/5e19a9b0-a02a-4471-97ae-1a897d962ce2" width="100%" /></a>
-      <h4><a href="Link_to_project_2">Grid Guardians</a></h4>
+      <a href="https://github.com/sadstorylogan/grid-guardians"><img src="https://github.com/sadstorylogan/sadstorylogan/assets/44436956/5e19a9b0-a02a-4471-97ae-1a897d962ce2" width="100%" /></a>
+      <h4><a href="https://github.com/sadstorylogan/grid-guardians">Grid Guardians</a></h4>
       <p>Blending the thrill of turn-based tactics with the strategic depth found in class-based shooters. Set in a modern-day context, players navigate challenging scenarios that demand strategic planning, as each class brings unique abilities to the table.</p>
     </td>
      </tr>
 </table>
+
+
+
+
+
+
 
 
 # 📊 GitHub Stats:
