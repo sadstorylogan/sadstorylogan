@@ -12,18 +12,20 @@
 # 🚀 Project Showcase
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/sadstorylogan/escape-from-the-abyss"><img src="https://github.com/sadstorylogan/sadstorylogan/assets/44436956/89187746-d32b-4073-8899-b6ef2615c061" width="100%" /></a>
-      <h4><a href="https://github.com/sadstorylogan/escape-from-the-abyss">Escape from the Abyss</a></h4>
-      <p>A thrilling game that tests your wits and reflexes, featuring puzzles, strategic combat, and epic boss fights. Developed using Unity, it showcases advanced game design techniques and storytelling.</p>
+    <td align="center">
+      <a href="https://github.com/sadstorylogan/GAUVerse-README">
+        <img src="https://github.com/user-attachments/assets/ec398b18-3cec-4e11-8349-68fa44cf8903" width="300"><br>
+        <b>GAU Verse</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sadstorylogan/bomber-duel-readme">
+        <img src="https://github.com/user-attachments/assets/d45fdad3-e6f4-4912-9cf9-c35254563df5" width="300"><br>
+        <b>Bomber Duel</b>
+      </a>
     </td>
 
-   <td align="center" width="50%">
-      <a href="https://github.com/sadstorylogan/grid-guardians"><img src="https://github.com/sadstorylogan/sadstorylogan/assets/44436956/5e19a9b0-a02a-4471-97ae-1a897d962ce2" width="100%" /></a>
-      <h4><a href="https://github.com/sadstorylogan/grid-guardians">Grid Guardians</a></h4>
-      <p>Blending the thrill of turn-based tactics with the strategic depth found in class-based shooters. Set in a modern-day context, players navigate challenging scenarios that demand strategic planning, as each class brings unique abilities to the table.</p>
-    </td>
-     </tr>
+  </tr>
 </table>
 
 
