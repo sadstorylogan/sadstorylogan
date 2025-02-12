@@ -1,5 +1,5 @@
 # 🐉 About Me:
-🎮 Game Developer | 🌍 Azeroth Enthusiast<br><br>I am Mehmet, a passionate game developer interested in creating captivating virtual experiences.<br>You may stumble upon me in the skies of Dragon Isles :)<br><br>⚡️ I’m currently working on a multiplayer bomberman game in Unity called Critical Boom.<br><br>🪐 Feel free to reach out for anything.
+🎮 Game Developer | 🌍 Game Designer<br><br>I am Mehmet, a passionate game developer interested in creating captivating virtual experiences.<br>You may stumble upon me in the skies of Dragon Isles :)<br><br>⚡️ I’m currently working on a multiplayer bomberman game in Unity called Critical Boom.<br><br>🪐 Feel free to reach out for anything.
 
 
 ## 🌐 Socials:
